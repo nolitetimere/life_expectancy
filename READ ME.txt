@@ -1,0 +1,10 @@
+This is a project from Codecademy that uses various libraries to perform data analysis with Python. The data is life expectancy data from the World Health Organization.
+
+Scope
+Is GDP an indicator of a country's overall health as measured by life expectancy?
+
+Data
+all_data.csv contains country GPD and life expectancy by year. Provided by Codecademy.
+
+Insights Found
+GDP is correlated to life expectancy, relative to each country, but not on the whole. Unfortunately, I don't have access to the amount of money spent on healthcare in each country (total or as a percentage of GDP). I think that would have more of an effect than GDP in general.
